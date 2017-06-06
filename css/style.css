@@ -178,6 +178,9 @@ html .hide{ display:none;}
 .content-bottom div.tab-content{ width: 100%; float: left; box-sizing: border-box; padding: 30px; text-align: center; }
 .content-bottom div.tab-content img{ margin-bottom: 30px; }
 
+/* 关于我们 */
+.content-about{ padding: 30px 0; line-height: 30px; text-indent: 2em; }
+
 /* 服务与支持 */
 .content-nav{ margin: 30px 0; float: left; width: 210px; border: 1px solid #dcdcdc; border-radius: 8px; background: #fff; color: #666; }
 .content-nav .content-nav-title{ line-height: 60px; text-indent: 30px; font-size: 18px; border-bottom: 1px solid #dcdcdc; }
@@ -195,6 +198,7 @@ html .hide{ display:none;}
 .content-r div.list p{ line-height: 24px; color: #999; margin-bottom: 7px; }
 .content-r div.list ol{ line-height: 24px; color: #999; }
 .content-r div.list p b{ color: #444; }
+
 
 
 
