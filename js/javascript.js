@@ -78,4 +78,11 @@ $(function(){
 		$(".tab-content>div").eq(this.id).show().siblings().hide();
 	});
 
+	/* 联系我们页点击显示微信二维码 */
+	$("#weichat").hover(function(){
+		$(this).next().css("display","inline-block");
+	},function(){
+		$(this).next().css("display","none");
+	});
+
 })
